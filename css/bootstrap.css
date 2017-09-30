@@ -320,24 +320,6 @@ img {
   max-width: 100%;
   height: auto;
 }
-.img6 {
-  background-image: url(images/img-6.png);
-  display: block;
-  width: auto;
-  height: auto;
-}
-.img7 {
-  background-image: url(images/img-7.jpeg);
-  display: block;
-  width: auto;
-  height: auto;
-}
-.img8 {
-  background-image: url(images/img-8.jpeg);
-  display: block;
-  width: auto;
-  height: auto;
-}
 .img-rounded {
   border-radius: 6px;
 }
