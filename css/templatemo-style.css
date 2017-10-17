@@ -350,6 +350,18 @@ header .social-icon li a
 	{
 		background: #505050;
 	}
+
+
+#service .col-md-6
+	{
+		padding: 40px;
+		-webkit-transition: all 0.4s ease-in-out;
+		        transition: all 0.4s ease-in-out;
+	}
+#service .col-md-6:hover
+	{
+		background: #505050;
+	}
 #service .active
 	{
 		background: #505050;
