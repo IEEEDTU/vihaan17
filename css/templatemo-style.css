@@ -1,7 +1,4 @@
-/*
-Awesome Template
-http://www.templatemo.com/preview/templatemo_450_awesome
-*/
+
 
 body
 	{
@@ -347,6 +344,18 @@ header .social-icon li a
 		        transition: all 0.4s ease-in-out;
 	}
 #service .col-md-4:hover
+	{
+		background: #505050;
+	}
+
+
+#service .col-md-6
+	{
+		padding: 40px;
+		-webkit-transition: all 0.4s ease-in-out;
+		        transition: all 0.4s ease-in-out;
+	}
+#service .col-md-6:hover
 	{
 		background: #505050;
 	}

@@ -236,6 +236,7 @@ li strong {
 }
 p strong {
     text-transform: uppercase;
+    color: #28a7e9;
 }
 p span {
     display: block;
